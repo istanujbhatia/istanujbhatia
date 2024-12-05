@@ -29,9 +29,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istanujbhatia&show_icons=true&locale=en" alt="istanujbhatia" /></p>
 
-<h2 align="left">👨🏻‍🎓 My Analytics</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istanujbhatia&" alt="istanujbhatia" /></p>
 
 ###
 
