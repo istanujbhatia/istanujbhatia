@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanuj Bhatia</h1>
-<h3 align="center">Hi 👋! My name is Tanuj Bhatia, and I am currently pursuing a B.Tech(CSE-AIML). I am honing my problem-solving skills in C/C++. Additionally, I am actively involved in development and consistently working on projects to enhance my Skills.</h3>
+<h3 align="center">Hi 👋! My name is Tanuj Bhatia, and I am currently pursuing a B.Tech(CSE-AIML). I am honing my problem-solving skills in C/C++. Additionally, I am actively involved in development and working on projects to enhance my Skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/istanujbhatia" target="blank"><img src="https://img.shields.io/twitter/follow/istanujbhatia?logo=twitter&style=for-the-badge" alt="istanujbhatia" /></a> </p>
 
@@ -24,11 +24,11 @@
 ###
 
 
-<h2 align="left">👩‍💻 My Stats</h2>
+<!-- <h2 align="left">👩‍💻 My Stats</h2>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istanujbhatia&show_icons=true&locale=en" alt="istanujbhatia" /></p>
-
+ -->
 
 
 ###
